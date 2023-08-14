@@ -1,0 +1,13 @@
+h1{
+    font-size: 15rem;
+    font-style:italic;
+}
+.letter{
+    transition: color 500ms;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
