@@ -1,5 +1,5 @@
 h1{
-    font-size: 15rem;
+    font-size: 18rem;
     font-style:italic;
 }
 .letter{
@@ -9,5 +9,5 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(60, 216, 68);
+    background-color: rgba(6, 133, 165, 0.76);
 }
